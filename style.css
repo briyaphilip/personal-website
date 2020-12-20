@@ -1,0 +1,43 @@
+body{
+  font-family: 'Source Serif Pro', serif;
+  background-color: #f0e3d1;
+}
+
+.menuBar{
+  background-color: black;
+  color: white;
+  border: white;
+  border-radius: 10px;
+  padding: 16px;
+  text-align: center;
+}
+
+header{
+  text-align: center;
+}
+a:link, a:visited {
+  background-color: #edad53;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color:#6b6254;
+}
+
+.info{
+  text-align: center;
+}
+
+.img{
+  border-radius: 50%;
+  width:200px;
+  height: 200px;
+}
+
+.resume{
+  padding-left: 50px;
+}
